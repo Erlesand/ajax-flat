@@ -1,0 +1,1 @@
+av [Lenny Erlesand](mailto:lenny@erlesand.se), en informationstörstande skåning som läser distanskurser i webbutveckling via BTH.
