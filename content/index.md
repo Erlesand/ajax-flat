@@ -13,7 +13,7 @@ views:
 Välkommen,
 ===============================
 
-![alt text](/img/home-banner.jpg "Välkommen hit")
+![alt text](img/home-banner.jpg "Min kurssida")
 
 Mitt namn är Lenny Erlesand, 30-årig skåning som bor i Malmö för tillfället.
 
