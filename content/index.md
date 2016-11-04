@@ -1,8 +1,19 @@
 ---
 titleBreadcrumb: Home
+views:
+    byline:
+        region: after-main
+        template: default/content
+        sort: 1
+        data:
+            meta:
+                type: content
+                route: block/byline
 ...
 Välkommen,
 ===============================
+
+![alt text](/img/home-banner.jpg "Välkommen hit")
 
 Mitt namn är Lenny Erlesand, 30-årig skåning som bor i Malmö för tillfället.
 

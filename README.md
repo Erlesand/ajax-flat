@@ -1,5 +1,5 @@
-# Anax Flat
+# Teknisk webbdesign och användbarhet
 
-[![Join the chat at https://gitter.im/mosbth/design](https://badges.gitter.im/mosbth/design.svg)](https://gitter.im/mosbth/design?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+Kursen Teknisk webbdesign och användbarhet, a.k.a. design, lär webbprogrammeraren att tekniskt förbereda sin webbplats för design och användbarhet.
 
-Flat CMS based on Anax.
+Kursen syftar till en orientering inom områden design och användbarhet, specifikt för tillämpningsområdet webb. Kursen har tekniken som utgångspunkt, där olika tekniker introduceras och används för att underlätta webbdesign och användbarhet för webbplatsen med syftet att skapa en korrekt och användarvänlig webbplats.
