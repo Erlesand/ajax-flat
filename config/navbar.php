@@ -13,9 +13,15 @@ return [
      
         // Here comes the menu structure
         "items" => [
+            "home" => [
+                "text" => t("Hem"),
+                "url"   => $this->di->get("url")->create("index"),
+                "title" => t("Min me-sida"),
+                "class" => "nav-home"
+            ],
 
             "report" => [
-                "text"  => t("Redovisningar"),
+                "text"  => t("Rapporter"),
                 "url"   => $this->di->get("url")->create("report"),
                 "title" => t("Redovisningar till kursmomenten"),
                 "mark-if-parent" => true,
@@ -29,9 +35,6 @@ return [
         ],
     ],
 
-
-
-/*
     // Used as menu together with responsive menu
     // Name of this menu
     "navbarMax" => [
@@ -42,22 +45,26 @@ return [
      
         // Here comes the menu structure
         "items" => [
-
+            "home" => [
+                "text" => t("Hem"),
+                "url"   => $this->di->get("url")->create("index"),
+                "title" => t("Min me-sida"),
+                "class" => "nav-home"
+            ],
             "report" => [
-                "text"  => t("Report"),
+                "text"  => t("Rapporter"),
                 "url"   => $this->di->get("url")->create("report"),
-                "title" => t("Reports from kmom assignments"),
+                "title" => t("Redovisningar till kursmomenten"),
                 "mark-if-parent" => true,
             ],
 
             "about" => [
-                "text"  => t("About"),
+                "text"  => t("Om kursen"),
                 "url"   => $this->di->get("url")->create("about"),
-                "title" => t("About this website")
+                "title" => t("Om denna kurs")
             ],
         ],
     ],
-*/
 
 
     /**

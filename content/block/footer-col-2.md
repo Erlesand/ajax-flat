@@ -1,4 +1,4 @@
 ####Kontakt
 
-<lenny@erlesand.se>
+* <lenny@erlesand.se>
 

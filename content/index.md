@@ -1,5 +1,5 @@
 ---
-titleBreadcrumb: Home
+titleBreadcrumb: Hem
 views:
     byline:
         region: after-main
@@ -9,11 +9,15 @@ views:
             meta:
                 type: content
                 route: block/byline
+    flash:
+        data:
+            title: Hem
+            content: Detta är min me-sida för kursen Design, här samlar jag allt som har med kursen att göra.
 ...
+![alt text](img/home-banner.jpg "Min kurssida")
+
 Välkommen,
 ===============================
-
-![alt text](img/home-banner.jpg "Min kurssida")
 
 Mitt namn är Lenny Erlesand, 30-årig skåning som bor i Malmö för tillfället.
 

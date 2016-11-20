@@ -1,5 +1,3 @@
-Copyright &copy; 2016 [Lenny Erlesand](http://www.erlesand.se) (lenny@erlesand.se)
+Copyright &copy; 2016 [Lenny Erlesand](mailto:lenny@erlesand.se)
 
-* [License](license)
-* [Cookies](cookies)
-* [Contact](contact)
+[License](license) • [Cookies](cookies) • [Contact](contact)
