@@ -14,7 +14,7 @@ views:
             title: Om kurs
             content: Här hittar man information om kursen 'Design'.
 ...
-![alt text](/img/about-course.jpg "Kurs i Design")
+![alt text](img/about-course.jpg "Kurs i Design")
 
 Om kursen
 ==============================================
